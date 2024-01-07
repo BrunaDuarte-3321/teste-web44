@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "@inovacao-ui/eslint-config",
+    "plugin:storybook/recommended"
+  ]
+}

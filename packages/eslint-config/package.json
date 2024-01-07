@@ -1,0 +1,12 @@
+{
+  "name": "@inovacao-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@rocketseat/eslint-config": "^2.1.0",
+    "D": "^1.0.0",
+    "eslint": "^8.53.0"
+  }
+}
