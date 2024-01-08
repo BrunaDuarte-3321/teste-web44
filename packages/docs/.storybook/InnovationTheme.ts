@@ -4,7 +4,7 @@ export default create({
   base: "dark",
   brandTitle: "Parvi Inovação",
   brandUrl: "",
-  brandImage: "/parvi-tec -White-resized.png",
+  brandImage: "./parvi-tec -White-resized.png",
   brandTarget: "_self",
 
   // UI
