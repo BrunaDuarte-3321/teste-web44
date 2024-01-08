@@ -15,4 +15,5 @@ export const colors = {
   "teste-color23": "#542",
   "teste-color63": "#542",
   "teste-color98": "#542",
+  "teste-col": "#542",
 };
