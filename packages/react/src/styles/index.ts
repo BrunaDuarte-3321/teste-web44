@@ -1,14 +1,14 @@
-import { createStitches, defaultThemeMap } from '@stitches/react'
 import {
   colors,
   fontSizes,
   fontWeights,
   fonts,
-  lineHeights,
   letterSpacings,
+  lineHeights,
   radii,
   space,
-} from '@inovacao-ui/tokens'
+} from "@inovacaoParvi-ui/tokens";
+import { createStitches, defaultThemeMap } from "@stitches/react";
 
 export const {
   config,
@@ -22,10 +22,10 @@ export const {
 } = createStitches({
   themeMap: {
     ...defaultThemeMap,
-    height: 'space',
-    width: 'space',
-    maxWidth: 'space',
-    maxHeight: 'space',
+    height: "space",
+    width: "space",
+    maxWidth: "space",
+    maxHeight: "space",
   },
   theme: {
     colors,
@@ -37,4 +37,4 @@ export const {
     radii,
     space,
   },
-})
+});

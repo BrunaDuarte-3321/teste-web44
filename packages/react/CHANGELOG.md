@@ -1,4 +1,4 @@
-# @inovacaoParvi-ui/tokens
+# @inovacao-ui/react
 
 ## 2.0.0
 

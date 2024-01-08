@@ -1,7 +1,7 @@
 {
   "name": "@inovacao-ui/docs",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "build-vite": "tsc && vite build",
@@ -15,7 +15,7 @@
   "dependencies": {
     "@inovacao-ui/eslint-config": "*",
     "@inovacao-ui/react": "*",
-    "@inovacao-ui/tokens": "*",
+    "@inovacaoParvi-ui/tokens": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },

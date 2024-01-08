@@ -1,6 +1,6 @@
 {
   "name": "@inovacao-ui/react",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "@inovacao-ui/eslint-config": "*",
-    "@inovacao-ui/tokens": "*",
+    "@inovacaoParvi-ui/tokens": "*",
     "@inovacao-ui/ts-config": "*",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
