@@ -1,12 +1,14 @@
 export const colors = {
-  white: '#FFFFFF',
+  white: "#FFFFFF",
 
-  'surface-variant': '#DBE5DF',
-  'on-background': '#191C1B',
+  "surface-variant": "#DBE5DF",
+  "on-background": "#191C1B",
 
-  seed: '#009475',
+  seed: "#009475",
 
-  primary: '#006B54',
-  error: '#BA1A1A',
-  alert: '#FFC700',
-}
+  primary: "#006B54",
+  error: "#BA1A1A",
+  alert: "#FFC700",
+
+  teste: "#0584",
+};
