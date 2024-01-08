@@ -1,7 +1,7 @@
 {
   "name": "@inovacao-ui/docs",
-  "private": false,
   "version": "1.0.0",
+  "private": false,
   "type": "module",
   "scripts": {
     "build-vite": "tsc && vite build",
