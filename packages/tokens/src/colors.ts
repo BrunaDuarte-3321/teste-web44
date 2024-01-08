@@ -11,4 +11,5 @@ export const colors = {
   alert: "#FFC700",
 
   teste: "#0584",
+  teste2: "#0584",
 };
