@@ -1,6 +1,6 @@
 {
-  "name": "@inovacaoParvi-ui/tokens",
-  "version": "2.0.0",
+  "name": "@inovacao-ui/tokens",
+  "version": "5.0.0",
   "private": false,
   "description": "",
   "main": "./dist/index.js",

@@ -1,13 +1,19 @@
-# @inovacaoParvi-ui/tokens
+# @inovacao-ui/tokens
 
-## 2.0.0
-
-### Major Changes
-
-- new colors
-
-## 2.0.0
+## 5.0.0
 
 ### Major Changes
 
-- Alterando config
+- teste
+
+## 4.0.0
+
+### Major Changes
+
+- teste de versao
+
+## 3.0.0
+
+### Major Changes
+
+- Add config

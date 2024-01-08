@@ -1,4 +1,4 @@
-import { colors } from "@inovacaoParvi-ui/tokens/src/colors";
+import { colors } from "@inovacao-ui/tokens/src/colors";
 import { getContrast } from "polished";
 
 export function ColorsGrid() {

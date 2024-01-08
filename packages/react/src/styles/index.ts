@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from "@inovacaoParvi-ui/tokens";
+} from "@inovacao-ui/tokens";
 import { createStitches, defaultThemeMap } from "@stitches/react";
 
 export const {
