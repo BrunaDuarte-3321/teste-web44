@@ -12,4 +12,5 @@ export const colors = {
 
   teste: "#0584",
   teste2: "#0584",
+  "teste-color": "#542",
 };
